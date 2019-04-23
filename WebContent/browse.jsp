@@ -132,6 +132,7 @@
 <nav class="menu1" role="navigation">
     <h2>Browsing Messages</h2>
     <!--close button-->
+   <!--NEEDS HIDE FEATURE-->
     <a class="nav-toggle1 show-nav1" href="#">
         <img src="images/close.png" class="close" alt="close">
     </a>
